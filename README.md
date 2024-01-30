@@ -22,4 +22,4 @@ This Drum Kit Website is an interactive web application that simulates a drum se
 <img src="https://i.postimg.cc/brXCrW5X/drum-kit-website-screenshot.png" width="800" alt="Drum Kit Screenshot">
 
 ## Try It Out
-Simply open the [webpage](https://yutongxie58.github.io/dicee-game-website/) in your browser to play!
+Simply open the [webpage](https://yutongxie58.github.io/drum-kit-website/) in your browser to play!
