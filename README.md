@@ -19,7 +19,7 @@ This Drum Kit Website is an interactive web application that simulates a drum se
 3. Alternatively, press the corresponding keys on your keyboard to play the sounds. Each drum element is associated with a specific key, as indicated on the website.
 
 ## Screenshots
-<img src="https://i.postimg.cc/brXCrW5X/drum-kit-website-screenshot.png" width="800" alt="Drum Kit Screenshot">
+Simply open the [webpage](https://yutongxie58.github.io/drum-kit-website/) in your browser to play!
 
 ## Try It Out
 Simply open the <a href="https://yutongxie58.github.io/drum-kit-website/" target="_blank">webpage</a> in your browser to play!
